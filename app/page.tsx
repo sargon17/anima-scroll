@@ -24,8 +24,6 @@ export default function Home() {
     }
   });
 
-  // test git
-
   return (
     <main className="flex min-h-screen flex-col p-24">
       <div className="flex flex-col justify-center items-center mb-16">
